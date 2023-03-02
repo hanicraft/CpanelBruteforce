@@ -1,10 +1,10 @@
 # CpanelBruteforce
 a simple and easy cpanel brute forcer
 
-#usage
+# usage
 python CPanelBruteForce.py -h (shows help)
 
-python CPanelBruteForce.py <host> <user> <port> <password list> <output>
+python CPanelBruteForce.py host user port password list output
 
 for example
 
